@@ -223,7 +223,7 @@ async function createGitHubIssue(owner, repo, title, body, token) {
     body: JSON.stringify({
       title: title,
       body: body,
-      labels: ['news', 'daily', 'automated']
+      labels: ['news']
     })
   });
   
