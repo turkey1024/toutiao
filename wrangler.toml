@@ -1,4 +1,4 @@
-name = "zhihu"
+name = "toutiao"
 compatibility_date = "2024-05-15"
 account_id = "9741670e7049cce1726de0b762141d6f"  # 需要替换为您的Cloudflare账户ID
 main = "index.js"
